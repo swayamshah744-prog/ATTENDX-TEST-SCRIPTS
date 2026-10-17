@@ -12,3 +12,5 @@ def test_attendance():
 
 if __name__ == "__main__":
     test_attendance()
+
+Version control: Changes are tracked using Git and GitHub.
